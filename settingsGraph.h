@@ -28,7 +28,11 @@ typedef foundValue<unsigned char> foundValue8u;
 typedef foundPixels<unsigned char> foundPixels8u;
 typedef tuple<image8u, image8u, image8u> jointype;
 typedef avgBrightness<unsigned char> avgBrightness8u;
+<<<<<<< HEAD
 dskgaekf
 abortfgkmfdv
 sVk
+=======
+
+>>>>>>> refs/remotes/origin/step2
 #endif
